@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - LevelBounds
+  - Ui
+  - RestartUi
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - ItemBox
+  - Spawned
+  - 
+  - 
+  - BG01
+  - BG02
+  - BG03
+  - BG04
+  - BG05
+  - BG06
+  - BG07
+  - BG08
+  - BG09
+  - BG10
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scenery
+    uniqueID: 390706595
+    locked: 0
+  - name: InteractiveObjects
+    uniqueID: 3451060327
+    locked: 0
